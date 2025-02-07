@@ -1,1 +1,1 @@
-console.log('hello Github updayed');
+console.log('hello Github updated');
